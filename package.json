@@ -2,7 +2,7 @@
   "name": "to-do-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anthony6310.github.io",
+  "homepage": "https://anthony6310.github.io/Todo-List/",
   "dependencies": {
     "axios": "^0.18.0",
     "git": "^0.1.5",
